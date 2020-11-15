@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\justb\source\repos\GLFWOpenGL\GLFWOpenGL\main.cpp(184,24): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\justb\source\repos\GLFWOpenGL\GLFWOpenGL\main.cpp(289,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\justb\source\repos\GLFWOpenGL\GLFWOpenGL\main.cpp(290,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\justb\source\repos\GLFWOpenGL\GLFWOpenGL\main.cpp(294,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\justb\source\repos\GLFWOpenGL\GLFWOpenGL\main.cpp(295,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\justb\source\repos\GLFWOpenGL\GLFWOpenGL\main.cpp(302,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  GLFWOpenGL.vcxproj -> C:\Users\justb\source\repos\GLFWOpenGL\Debug\GLFWOpenGL.exe
